@@ -554,7 +554,7 @@ body {
   background: rgba(33, 150, 243, 0.9);
   padding: 63px 24px;
   height: 100%;
-  transform: translateY(100%);
+  transform: translateY(101%);
   transition: transform var(--transition-duration-main) var(--transitiom-timing-effect-main);
   /* overflow: auto; */
 }
